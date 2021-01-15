@@ -1,3 +1,10 @@
+[![build](https://github.com/ltpitt/java-spring-security-basics/workflows/build/badge.svg)](https://github.com/ltpitt/java-spring-security-basics/actions)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-spring-security-basics)](https://github.com/ltpitt/java-spring-security-basics/issues)
+[![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-spring-security-basics)](https://github.com/ltpitt/java-spring-security-basics/commits)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-spring-security-basics?foo=bar)](https://github.com/ltpitt/java-spring-security-basics/commits)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ltpitt/java-spring-security-basics/blob/master/LICENSE)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+
 # Java Sprint Security Basics
 > A basic implementation of Authentication using Spring Security.
 
