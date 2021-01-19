@@ -1,4 +1,5 @@
 [![build](https://github.com/ltpitt/java-spring-security-basics/workflows/build/badge.svg)](https://github.com/ltpitt/java-spring-security-basics/actions)
+[![CodeQL](https://github.com/ltpitt/java-spring-security-basics/workflows/CodeQL/badge.svg)](https://github.com/ltpitt/java-spring-security-basics/actions?query=workflow%3ACodeQL)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-spring-security-basics)](https://github.com/ltpitt/java-spring-security-basics/issues)
 [![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-spring-security-basics)](https://github.com/ltpitt/java-spring-security-basics/commits)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-spring-security-basics?foo=bar)](https://github.com/ltpitt/java-spring-security-basics/commits)
