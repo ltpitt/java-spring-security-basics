@@ -1,9 +1,7 @@
-package com.udacity.jwdnd.spring_security_basics.service;
+package it.davidenastri.spring_security_basics.service;
 
-import com.udacity.jwdnd.spring_security_basics.mapper.UserMapper;
-import com.udacity.jwdnd.spring_security_basics.model.User;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import it.davidenastri.spring_security_basics.mapper.UserMapper;
+import it.davidenastri.spring_security_basics.model.User;
 import org.springframework.stereotype.Service;
 
 import java.security.SecureRandom;

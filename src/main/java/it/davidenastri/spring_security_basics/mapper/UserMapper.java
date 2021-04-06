@@ -1,6 +1,6 @@
-package com.udacity.jwdnd.spring_security_basics.mapper;
+package it.davidenastri.spring_security_basics.mapper;
 
-import com.udacity.jwdnd.spring_security_basics.model.User;
+import it.davidenastri.spring_security_basics.model.User;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Options;

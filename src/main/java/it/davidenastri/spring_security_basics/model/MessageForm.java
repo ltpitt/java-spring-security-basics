@@ -1,4 +1,4 @@
-package com.udacity.jwdnd.spring_security_basics.model;
+package it.davidenastri.spring_security_basics.model;
 
 public class MessageForm {
     private String text;

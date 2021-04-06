@@ -1,16 +1,14 @@
-package com.udacity.jwdnd.spring_security_basics.service;
+package it.davidenastri.spring_security_basics.service;
 
-import com.udacity.jwdnd.spring_security_basics.mapper.UserMapper;
-import com.udacity.jwdnd.spring_security_basics.model.User;
+import it.davidenastri.spring_security_basics.mapper.UserMapper;
+import it.davidenastri.spring_security_basics.model.User;
 import org.springframework.security.authentication.AuthenticationProvider;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.stereotype.Service;
 
-import java.security.SecureRandom;
 import java.util.ArrayList;
-import java.util.Base64;
 
 @Service
 public class AuthenticationService implements AuthenticationProvider {

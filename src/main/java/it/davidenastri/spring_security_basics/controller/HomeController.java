@@ -1,11 +1,10 @@
-package com.udacity.jwdnd.spring_security_basics.controller;
+package it.davidenastri.spring_security_basics.controller;
 
-import com.udacity.jwdnd.spring_security_basics.model.MessageForm;
-import com.udacity.jwdnd.spring_security_basics.service.MessageListService;
+import it.davidenastri.spring_security_basics.model.MessageForm;
+import it.davidenastri.spring_security_basics.service.MessageListService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
